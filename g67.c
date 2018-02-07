@@ -1,11 +1,12 @@
 #include<stdio.h>
 void main()
 {
-int a;
+int a,a1,a2;
 scanf("%d",&a);
-for(i=0;i<(a%10==0);i++)
+if(a!=0)
 {
-a++;
+a1=a/10;
+a2=a1+10;  
 }
-printf("the nerarest number is%d"a);
+printf("the nerarest number is%d"a2);
 }
