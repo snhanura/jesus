@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-if(printf("hello world"))
+if(printf("haii guvi"))
 {
 }
 }
