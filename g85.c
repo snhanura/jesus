@@ -2,7 +2,7 @@
 #include<string.h>
 void main()
 {
-char s[10],s1[10.s2[10];
+char s[10],s1[10],s2[10];
 int i=0,j=0,k=0;
 printf("enter the string");
 scanf("%s",&s);
