@@ -4,6 +4,6 @@ void main()
 {
 int n,p,r;
 scanf("%d%d",&n,&p);
-r=p^n;
+r=pow(n,p);
 printf("r=%d",r);
 }
