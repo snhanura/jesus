@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-	char n;
+	char n,s;
 	printf("Enter the Number:");
 	scanf("%d",&n);
 	s=n+64;
