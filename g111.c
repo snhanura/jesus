@@ -1,12 +1,12 @@
 #include<stdio.h>
 void main()
 {
-int n,count=0;
+int n,c=0;
 scanf("%d",&n);
 while(n!=0)
 {
 n=n/10;
-count++;
+c++;
 }
-printf("%d",count);
+printf("%d",c);
 }
